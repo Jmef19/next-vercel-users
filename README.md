@@ -14,29 +14,29 @@ This app was created as a test to explore how the [Vercel Platform](https://verc
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
 2. Navigate to the project directory
-  ```bash
-  cd your-repo-name
-  ```
+```bash
+cd your-repo-name
+```
 3. Install dependencies
-   ```bash
-   npm install
-   ```
-  or
-  ```bash
-  yarn install
-  ```
+```bash
+npm install
+```
+or
+```bash
+yarn install
+```
 4. Start development server
-   ```bash
-   npm run dev
-   ```
-  or
-  ```bash
-  yarn dev
-  ```
+```bash
+npm run dev
+```
+or
+```bash
+yarn dev
+```
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Deployment
